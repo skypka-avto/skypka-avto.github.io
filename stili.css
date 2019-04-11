@@ -1,0 +1,97 @@
+body {
+     background-image: url(fonzelyoniy.jpg);
+}
+div {
+    box-sizing: border-box; 
+}
+.oglav {
+    width: 14%;
+    float: left;
+    overflow: hidden;
+    clear: both;
+    display: block;
+}
+.knopki {
+    display: inline-block;
+    width: 90%;
+    clear: both;
+    border-radius: 10px;
+    border: 4px double white;
+    background: rgba(126, 105, 78, 0.781);
+    color: white;
+    text-align: center;
+}
+.knopki a {
+    text-decoration: none;
+    font-size: 22px;
+    color: blue;
+    }
+.text {
+    text-align: justify;
+    width: 85%;
+    float: left;
+    overflow: hidden;
+    display: block;
+}
+.karpravo {
+    float: right;
+}
+h1 {
+    color:white;
+    text-align: center;
+}
+h2 {
+    color: blue;
+    text-align: center;
+}
+.foto {
+    width: 32.7%;
+    position: relative;
+    float: left;
+    margin: 0 7px 0 0;
+}
+footer {
+    height: 50px;
+    background: rgb(37, 48, 37);
+    color: white;
+    position: relative;
+    overflow: hidden;
+    clear: both;
+    text-align: center;
+}
+.kartinka {
+    text-align: center;
+}
+.red {
+    color: white;
+}
+@media (max-width: 1980px) {
+    .knopki a {
+            font-size: 20px;
+    }
+}
+@media (max-width: 1024px) {
+    .knopki a {
+            font-size: 16px;
+    }
+}
+@media (max-width: 960px) {
+    .knopki a {
+            font-size: 12px;
+    }
+}
+@media (max-width: 720px) {
+    .knopki a {
+            font-size: 10px;
+    }
+}
+@media (max-width: 480px) {
+    .knopki a {
+            font-size: 8px;
+    }
+}
+@media (max-width: 360px) {
+    .knopki a {
+            font-size: 6px;
+    }
+}
