@@ -1,0 +1,1 @@
+# skypka-avto.github.io
