@@ -36,6 +36,9 @@ div {
 .karpravo {
     float: right;
 }
+span {
+     color: blue;
+}
 h1 {
     color:white;
     text-align: center;
