@@ -16,7 +16,7 @@ div {
     width: 90%;
     clear: both;
     border-radius: 10px;
-    border: 4px double white;
+    border: 4px double blue;
     background: rgba(126, 105, 78, 0.781);
     color: white;
     text-align: center;
@@ -24,7 +24,7 @@ div {
 .knopki a {
     text-decoration: none;
     font-size: 22px;
-    color: blue;
+    color: white;
     }
 .text {
     text-align: justify;
