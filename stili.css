@@ -65,6 +65,21 @@ footer {
 .kartinka {
     text-align: center;
 }
+.black {
+     font-weight: bolder;
+}
+.black a {
+     font-weight: bolder;
+}
+.black b {
+     font-weight: bolder;
+}
+.black c {
+     font-weight: bolder;
+}
+.black d {
+     font-weight: bolder;
+}
 .red {
     color: white;
 }
